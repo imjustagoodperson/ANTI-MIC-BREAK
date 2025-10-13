@@ -17,7 +17,7 @@ instead of having to go all the way into your discord voice & video settings & r
 
 # ----------------------------- LOGS --------------------------
 
-# AUDIO SUBSYSTEM WILL NOW AUTOMATICALLY SET TO "LEGACY" WHEN THE PLUGINS ENABLED | 10.13.25
+# AUDIO SUBSYSTEM WILL NOW AUTOMATICALLY BE SET TO "LEGACY" WHEN THE PLUGINS ENABLED | 10.13.25
 
 # FIXED PATCH NOT WORKING IF AUDIO SUBSYSTEM ISN'T SET TO "LEGACY" | 10.13.25
 
