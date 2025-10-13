@@ -16,6 +16,11 @@ instead of having to go all the way into your discord voice & video settings & r
 # I SUGGEST TO TURN OFF THE FAKE DEAFEN PLUGIN WHILE USING THIS PLUGIN IT MIGHT MESS STUFF UP
 
 # ----------------------------- LOGS --------------------------
+
+# AUDIO SUBSYSTEM WILL NOW AUTOMATICALLY SET TO "LEGACY" WHEN THE PLUGINS ENABLED | 10.13.25
+
+# FIXED PATCH NOT WORKING IF AUDO SUBSYSTEM ISN'T SET TO "LEGACY" | 10.13.25
+
 #  NEW ICON DESIGN | 9.2.25
 
 #  RESETS OUTPUT | 9.2.25
