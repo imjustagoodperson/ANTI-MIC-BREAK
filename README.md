@@ -13,7 +13,7 @@ instead of having to go all the way into your discord voice & video settings & r
 
 # GUIDE: https://youtu.be/VUSUwDBUJHY?si=pyf-uxA9LEAW_nsN
 
-# I SUGGEST TO TURN OFF THE FAKE DEAFEN PLUGIN WHILE USING THIS PLUGIN IT MIGHT MESS STUFF UP
+# I SUGGEST TO TURN OFF THE FAKE DEAFEN PLUGIN WHILE USING THIS PLUGIN IT MAY CAUSE BUGS
 
 
 # ----------------------------- LOGS --------------------------
